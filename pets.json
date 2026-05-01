@@ -1,0 +1,16 @@
+{
+  "pets": [
+    {
+      "id": "nuko",
+      "displayName": "ぬこぬこ",
+      "path": "pets/nuko",
+      "description": "A tiny two-heads-tall cat-eared chibi girl with dark brown hair, amber eyes, and a gold star medallion."
+    },
+    {
+      "id": "nukoevi",
+      "displayName": "ぬこエビちゃん",
+      "path": "pets/nukoevi",
+      "description": "A tiny baby cat-eared chibi girl with dark brown hair, amber eyes, a coral shrimp knit hat, and a black-and-gold outfit."
+    }
+  ]
+}

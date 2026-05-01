@@ -28,6 +28,7 @@ pets/
   nukoevi/
     pet.json
     spritesheet.webp
+pets.json
 ```
 
-Each pet directory contains the runtime files: `pet.json` and `spritesheet.webp`.
+`pet.json` and `spritesheet.webp` are the runtime files. `pets.json` is a small catalog for managing multiple characters in this repository.
