@@ -5,6 +5,7 @@ Private collection of Codex pet assets.
 ## Pets
 
 - `nuko`: ぬこぬこ
+- `nukoevi`: ぬこエビちゃん
 
 ## Install
 
@@ -14,6 +15,7 @@ Clone this private repository with an account that has access, then copy a pet d
 gh repo clone schroneko/codex-pets
 mkdir -p ~/.codex/pets
 cp -R codex-pets/pets/nuko ~/.codex/pets/nuko
+cp -R codex-pets/pets/nukoevi ~/.codex/pets/nukoevi
 ```
 
 ## Layout
@@ -21,6 +23,9 @@ cp -R codex-pets/pets/nuko ~/.codex/pets/nuko
 ```text
 pets/
   nuko/
+    pet.json
+    spritesheet.webp
+  nukoevi/
     pet.json
     spritesheet.webp
 pets.json
